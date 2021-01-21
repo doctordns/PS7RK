@@ -6,8 +6,8 @@ A work in progress
 
 ## Suggested Books
 
-* DNS
-* DHCP
+* DNS - see DNS Book Thoughts
+* DHCP - see DNS Book Thoughts
 * Storage
 * Clustering
 * .NET
