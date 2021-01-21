@@ -19,4 +19,3 @@
 12. DNS and DHCP - a chapter in this and the DHCP book?
 13. DNS Troubleshooting
 14. The DNS protocol and protocol messages 
-
