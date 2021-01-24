@@ -8,7 +8,7 @@ A work in progress
 
 * DNS - see DNS Book Thoughts
 * DHCP - see DHCP Book Thoughts
-* Storage
+* Storage - See Storage Book Thoughts
 * Clustering
 * .NET
 * Active Directory
