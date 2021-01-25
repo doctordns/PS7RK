@@ -10,12 +10,12 @@ A work in progress
 * Azure
 * Clustering
 * Containers
-* DHCP - see ``DHCP Book Thoughts``
-* DNS - see ``DNS Book Thoughts``
+* DHCP - see **DHCP Book Thoughts**
+* DNS - see **DNS Book Thoughts**
 * Hardware
 * Hyper-V
 * .NET
 * Networking
 * Security
-* Storage - See ``Storage Book Thoughts``
-* WMI - See ``WMI Book Thoughts``
+* Storage - See **Storage Book Thoughts**
+* WMI - See **WMI Book Thoughts**
