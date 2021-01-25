@@ -14,7 +14,7 @@ This book does a deeper diver in
 6. Managing shared files (SMB)
 7. Creating Clustered File server
 8. Creating Scale-out SMB 3 file server
-9. Managing Sorage Replica
+9. Managing Storage Replica
 10. Managing Hyper-V virtual disks
 11. Managing iSCSI 
 12. Managing DFS Namespace
