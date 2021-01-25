@@ -6,20 +6,19 @@ A work in progress
 
 ## Suggested Books
 
-* DNS - see DNS Book Thoughts
-* DHCP - see DHCP Book Thoughts
-* Storage - See Storage Book Thoughts
-* Clustering
-* .NET
 * Active Directory
+* Azure
+* Clustering
 * Containers
-* Hyper-V
-* Azure
-* WMI
+* DHCP - see DHCP Book Thoughts
+* DNS - see DNS Book Thoughts
 * Hardware
-* Azure
+* Hyper-V
+* .NET
 * Networking
 * Security
+* Storage - See Storate Book Thoughts
+* WMI - See WMI Book Thoughts
 
 
  
