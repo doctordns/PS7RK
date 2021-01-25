@@ -12,7 +12,7 @@ A work in progress
 * Containers
 * DHCP - see **DHCP Book Thoughts**
 * DNS - see **DNS Book Thoughts**
-* Hardware
+* Hardware - See **Hardware Book Thoughts**
 * Hyper-V
 * .NET
 * Networking

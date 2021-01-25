@@ -1,4 +1,4 @@
-# Mastering Hardware with PowerSHell 7
+# Mastering Hardware with PowerShell 7
 
 ## Scope
 
