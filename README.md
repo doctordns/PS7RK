@@ -17,5 +17,6 @@ A work in progress
 * .NET
 * Networking
 * Security
+* SQL - See ***SQL Book Thoughts**
 * Storage - See **Storage Book Thoughts**
 * WMI - See **WMI Book Thoughts**
