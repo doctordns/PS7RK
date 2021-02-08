@@ -13,7 +13,7 @@ A work in progress
 * DHCP - see **DHCP Book Thoughts**
 * DNS - see **DNS Book Thoughts**
 * Hardware - See **Hardware Book Thoughts**
-* Hyper-V See **Hyper-V Book Thoughts**
+* Hyper-V - See **Hyper-V Book Thoughts**
 * .NET
 * Networking
 * Security
