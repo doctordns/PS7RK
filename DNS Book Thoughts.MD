@@ -3,7 +3,7 @@
 ##  Scope
 
 
-## suggested chapters
+## Suggested Chapters
 
 1. Background – covers the history of the Internet, hosts.txt and BIND.
 2. How Does DNS Work?
