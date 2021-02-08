@@ -20,3 +20,8 @@ Would cover both the Hyper-V role with Windows Server and Hyper-V Server
 12. Managing VM Checkpoints
 13. Clustering Hyper-V servers
 14. Managing NUMA
+15. Clustering HYper-V
+
+
+# Notes
+1. Clustering chapter overlaps with hyper-V in clustering book
