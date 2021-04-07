@@ -2,7 +2,7 @@
 
 ## Scope
 
-This book looks to examine the hardware in today's computer system and how to maange via PowerShell 8
+This book looks to examine the hardware in today's computer system and how to manage via PowerShell 7.
 
 
 ## Proposed Chapters

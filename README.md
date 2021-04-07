@@ -1,4 +1,4 @@
-# PS7RK
+ccode # PS7RK
 
 Working thoughts on a PS7 Resource Kit series
 
@@ -7,13 +7,14 @@ A work in progress
 ## Suggested Books
 
 * Active Directory
-* Azure
+* Azure- see **Azure Book Thoughts**
 * Clustering
 * Containers
 * DHCP - see **DHCP Book Thoughts**
 * DNS - see **DNS Book Thoughts**
 * Hardware - See **Hardware Book Thoughts**
 * Hyper-V - See **Hyper-V Book Thoughts**
+* Microsoft 365
 * .NET
 * Networking
 * Security
