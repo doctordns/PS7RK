@@ -1,6 +1,5 @@
 # PowerShell 7 Resource Kit
 
-
 Working thoughts on a PS7 Resource Kit series - a work in progress
 
 ## Overview
@@ -33,6 +32,7 @@ Microsoft Product team assistance for some technologies might be possible.
 
 ## Suggested Books
 
+* Powershell  - see **PowerShellintro**
 * Active Directory
 * Azure- see **Azure Book Thoughts**
 * Clustering
